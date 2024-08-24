@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is the chapter 3 
+=======
+this is the chapter 3 testing and l want this to be changed on my main branch
+>>>>>>> testing

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is the chapter 2 here 
+=======
+this is the chapter 2 here  i want this thing to be come on my main branch
+>>>>>>> testing
